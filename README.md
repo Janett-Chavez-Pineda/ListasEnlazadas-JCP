@@ -1,0 +1,2 @@
+# ListasEnlazadas-JCP
+• Crear una lista enlazada de números enteros positivos al azar, donde la inserción se realiza por el último nodo. • Recorrer la lista para mostrar los elementos por pantalla. • Eliminar todos los nodos que superen un valor dado. • Mostrar la lista nuevamente.
